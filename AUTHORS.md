@@ -10,3 +10,4 @@ Add your row at the bottom when you complete Task 5.
 | Honoré (instructor) | Jollof Rice | dinner |
 | Honoré (instructor) | Chocolate Chip Cookies | desserts |
 | Honoré (instructor) | Mango Smoothie | drinks |
+|Micah Ngoh| Fried Rice| Dinner
